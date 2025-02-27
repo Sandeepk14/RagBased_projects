@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain-google-genai
+python-dotenv
+langchainhub
+streamlit
+langchain_experimental
+chromadb   
+unstructured
+pypdf
